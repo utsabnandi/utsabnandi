@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development & devops 
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me utsab22nandi@gmail.com
 
 <!---
 utsabnandi/utsabnandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
